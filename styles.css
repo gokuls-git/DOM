@@ -1,0 +1,46 @@
+body{
+    background-color:#ef3ffe;
+    
+}
+
+.container{
+    text-align: center;
+    width: 75%;
+    margin: auto;
+}
+.container h1{
+    font-size: 8rem;
+    color:antiquewhite
+}
+.btn{
+    height: 5rem;
+    width: 10rem;
+    position: absolute;
+    left: 43rem;
+    top:15rem;
+    border-radius: 50%;
+    font-size: 2rem;
+}
+
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+.dice p{
+    font-size: 2rem;
+    color: #4ECCA3;;
+
+}
+.dice img{
+    width: 80%;
+}
+
+
+
+footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+  
+  }
